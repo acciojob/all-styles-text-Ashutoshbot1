@@ -2,12 +2,12 @@
 /* Your CSS Code here. */
 
 #heading{
-	padding:10px;
 	font-size:20px;
 	color:white;
 }
 
 .main{
+	padding:10px;
 	border:1px solid green;
 	border-left-width:5px;
 	width:200px;
